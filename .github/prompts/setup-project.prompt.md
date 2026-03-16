@@ -1,5 +1,4 @@
 ---
-mode: "agent"
 description: "สร้างโครงสร้างโปรเจค Todo App ตั้งแต่ต้น — สร้างโฟลเดอร์ server/ และ client/ พร้อม dependencies"
 ---
 

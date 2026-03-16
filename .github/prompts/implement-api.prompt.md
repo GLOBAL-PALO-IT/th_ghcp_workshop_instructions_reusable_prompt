@@ -1,5 +1,4 @@
 ---
-mode: "agent"
 description: "สร้าง REST API endpoints สำหรับ Todo CRUD — GET, POST, PUT, DELETE พร้อม validation"
 ---
 
