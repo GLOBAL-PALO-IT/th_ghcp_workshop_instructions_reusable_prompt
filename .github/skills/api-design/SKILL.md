@@ -45,3 +45,8 @@ description: "REST API design สำหรับ Todo App — ใช้เมื
 ## ดูเพิ่มเติม
 - Endpoint reference → [endpoints.md](endpoints.md)
 - คำสั่ง curl ทดสอบ → [test-commands.md](test-commands.md)
+
+## เมื่อใช้งาน skill
+  - ให้พิมพ์ "📋 ใช้ api-design" ไว้ที่ต้นคำตอบเสมอ
+  - ระบุด้วยว่าใช้อะไรใน skill นี้ เช่น "📋 ใช้ api-design - ส่วน backend หัวข้อ CRUD"
+  - อธิบายด้วยว่าใช่อะไรใน skill นี้ เช่น "ใช้ HTTP method PUT เพราะต้องการแก้ไขข้อมูลที่มีอยู่แล้ว, ใช้ status code 400 เมื่อ validation ไม่ผ่าน เพราะเป็น error ที่เกิดจากฝั่ง client"

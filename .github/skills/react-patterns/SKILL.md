@@ -37,3 +37,8 @@ description: "React component patterns สำหรับ Todo App — ใช้
 ## ดูเพิ่มเติม
 - Patterns พร้อมโค้ดตัวอย่าง → [patterns.md](patterns.md)
 - Checklist ก่อนสร้าง component → [checklist.md](checklist.md)
+
+## เมื่อใช้งาน skill
+    - ให้พิมพ์ "📋 ใช้ react-patterns" ไว้ที่ต้นคำตอบเสมอ
+    - ระบุด้วยว่าใช้อะไรใน skill นี้ เช่น "📋 ใช้ react-patterns - จัดการ form input ใน TodoForm"
+    - อธิบายด้วยว่าใช่อะไรใน skill นี้ เช่น "ใช้ useState ใน TodoForm เพื่อเก็บค่า text ที่ผู้ใช้พิมพ์, ส่ง callback onAdd ไปยัง App เพื่อเพิ่ม todo ใหม่เมื่อ submit form, แยก state ของ form กับ state ของ todos ใน App เพื่อให้ component แต่ละตัวมีความรับผิดชอบชัดเจน"
