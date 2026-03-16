@@ -88,3 +88,4 @@ res.status(404).json({ error: 'Todo not found' });
 ## กฎ
 - เมื่อ instruction ไฟล์นี้ถูกใช้งาน ให้พิมพ์ข้อความ "📋 ใช้ code-style.instruction.md" ไว้ที่ต้นคำตอบเสมอ
 - ใช้อะไรใน instruction ไฟล์นี้ ระบุด้วยว่าส่วนไหนใช้กับ frontend หรือ backend เพื่อความชัดเจน (เช่น "📋 ใช้ code-style.instruction.md - ส่วน frontend" หรือ "📋 ใช้ code-style.instruction.md - ส่วน backend")
+- อธิบายด้วยว่าใช่อะไรใน instruction ไฟล์นี้

@@ -73,3 +73,4 @@ App.js              ← state หลัก + fetch API
 ## กฎ
 - เมื่อ instruction ไฟล์นี้ถูกใช้งาน ให้พิมพ์ข้อความ "📋 ใช้ project.instruction.md" ไว้ที่ต้นคำตอบเสมอ
 - ใช้อะไรใน instruction ไฟล์นี้ ระบุด้วยว่าส่วนไหนใช้กับ frontend หรือ backend เพื่อความชัดเจน (เช่น "📋 ใช้ project.instruction.md - ส่วน frontend" หรือ "📋 ใช้ project.instruction.md - ส่วน backend")
+- อธิบายด้วยว่าใช่อะไรใน instruction ไฟล์นี้
